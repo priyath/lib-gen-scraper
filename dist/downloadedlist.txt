@@ -1,0 +1,5 @@
+Learn Python The Hard Way
+Python 3 и PyQt Разработка приложений
+Python High Performance Programming
+Complete Guide For Python Programming
+Data Science from Scratch: First Principles with Python

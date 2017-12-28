@@ -1,0 +1,7 @@
+Python
+Data Engineering
+Apache Kafka
+Apache Spark
+Data Warehouse
+Amazon Redshift
+Scala

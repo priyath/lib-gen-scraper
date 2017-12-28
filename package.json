@@ -1,0 +1,18 @@
+{
+  "name": "webscraper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "scrape.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "libgen": "github:priyath/libgen.js",
+    "linkscrape": "^1.0.0",
+    "request": "latest",
+    "request-progress": "^3.0.0",
+    "single-line-log": "^1.1.2"
+  },
+  "author": "seve7n",
+  "license": "ISC"
+}
